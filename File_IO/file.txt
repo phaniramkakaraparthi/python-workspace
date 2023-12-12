@@ -1,0 +1,4 @@
+This is a new Text file
+It contains multiple lines and this is second line
+and this one is third.
+This is another line in file
